@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Shadrack Buddy.</h1>
 
 ###
-
+<h2 align="left">💻 Tech Stack:</h2>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -113,7 +113,7 @@
 </div>
 
 ###
-
+<h2 align="left">👨‍💻 More About Me</h2>
 <p align="left">💻 Software Development (Python, Java, Node.js)<br><br>🤖 AI/ML Projects & Concepts<br><br>🔐 Cybersecurity Fundamentals & Practices<br><br>☁️ Cloud Technologies (Especially AWS)<br><br>⚙️ Automation & Control Systems<br><br>🚀 Getting Started with DevOps</p>
 
 ###
@@ -164,6 +164,8 @@ const anmol = {
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
+
+<h2 align="left">👨‍💻 Projects</h2>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
