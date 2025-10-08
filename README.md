@@ -92,7 +92,7 @@
 
 ###
 
-<p align="left">I'm a Computer Systems Engineering student passionate about turning ideas into code and solving real-world problems with technology. From writing Python scripts to building secure cloud apps, I love exploring the endless possibilities of software development, AI/ML, cybersecurity, and cloud computing.<br><br>When I'm not debugging or deploying, I'm probably:<br><br>🤖 Learning something new about AI or cybersecurity<br><br>🔧 Automating a random daily task just for fun<br><br>☕ Running on caffeine and clean code<br><br>🚀 Breaking things (ethically!) to make them better<br><br>This GitHub is where I share my projects, learning journey, and experiments. Thanks for stopping by — feel free to explore, collaborate, or just say hi! 😄</p>
+<p align="left">I'm a Computer Systems Engineering student passionate about turning ideas into code and solving real-world problems with technology. From writing Python scripts to building secure cloud apps, I love exploring the endless possibilities of software development, AI/ML, cybersecurity, and cloud computing.<br><br>When I'm not debugging or deploying, I'm probably:<br><br>🤖 Learning something new about AI or cybersecurity<br><br>🔧 Automating a random daily task just for fun<br><br>☕ Running clean code<br><br>🚀 Breaking things (ethically!) to make them better<br><br>This GitHub is where I share my projects, learning journey, and experiments. Thanks for stopping by — feel free to explore, collaborate, or just say hi! 😄</p>
 
 ###
 
@@ -126,7 +126,7 @@
 ```javascript
 const anmol = {
     pronouns: "He" | "Him",
-    code: ["Python", "Java", "Node.js", "TypeScript", "Dart"],
+    code: ["Python", "Java", "Node.js", "TypeScript", "Python"],
     askMeAbout: ["software dev", "AI/ML", "cloud", "cybersecurity", "automation"],
     currentlyLearning: ["AWS Cloud Practitioner", "Cybersecurity"],
     technologies: {
@@ -136,7 +136,7 @@ const anmol = {
             uiLibraries: ["Material UI", "Ant Design", "Chakra UI"],
         },
         backEnd: {
-            js: ["Node", "Express", "NestJS"],
+            js: ["Node", "Express", "NestJS", "JAVA"],
             python: ["Flask"],
         },
         mobileApp: {
@@ -146,7 +146,7 @@ const anmol = {
         cloudServices: {
             aws: ["EC2", "S3", "Lambda", "CloudWatch", "RDS"],
         },
-        databases: ["PostgreSQL", "MongoDB", "SQLite", "Firebase", "Redis"],
+        databases: ["PostgreSQL", "MongoDB", "SQLite", "Firebase", "SupaBase"],
         misc: ["REST APIs", "WebSockets", "Socket.IO", "Cloud Functions"],
         generativeAI: ["GPT", "Vectorization"],
     },
@@ -163,7 +163,7 @@ const anmol = {
 ```
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with curious minds!</b> Feel free to reach out or say <b>hi</b> 😊</em>
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
