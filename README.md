@@ -120,6 +120,51 @@
 
 <br clear="both">
 
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+```javascript
+const anmol = {
+    pronouns: "He" | "Him",
+    code: ["Python", "Java", "Node.js", "TypeScript", "Dart"],
+    askMeAbout: ["software dev", "AI/ML", "cloud", "cybersecurity", "automation"],
+    currentlyLearning: ["AWS Cloud Practitioner", "Cybersecurity"],
+    technologies: {
+        frontEnd: {
+            js: ["React", "Next.js"],
+            css: ["Sass", "Tailwind", "Bootstrap"],
+            uiLibraries: ["Material UI", "Ant Design", "Chakra UI"],
+        },
+        backEnd: {
+            js: ["Node", "Express", "NestJS"],
+            python: ["Flask"],
+        },
+        mobileApp: {
+            crossPlatform: ["Flutter"],
+        },
+        devOps: ["Docker🐳", "CI/CD", "Nginx", "GitHub Actions"],
+        cloudServices: {
+            aws: ["EC2", "S3", "Lambda", "CloudWatch", "RDS"],
+        },
+        databases: ["PostgreSQL", "MongoDB", "SQLite", "Firebase", "Redis"],
+        misc: ["REST APIs", "WebSockets", "Socket.IO", "Cloud Functions"],
+        generativeAI: ["GPT", "Vectorization"],
+    },
+    architecture: {
+        frontEnd: ["SPA", "SSR"],
+        backEnd: ["microservices", "monolithic", "serverless"],
+        devOps: ["CloudFormation", "Serverless Framework"],
+        databases: ["Relational", "NoSQL", "In-memory"],
+    },
+    currentFocus: "Learning more about cloud security & generative AI",
+    funFact: "I once automated a task just to learn how to automate tasks. 😄☕",
+};
+
+```
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with curious minds!</b> Feel free to reach out or say <b>hi</b> 😊</em>
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
