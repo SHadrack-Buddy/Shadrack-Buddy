@@ -1,4 +1,12 @@
-<h1 align="left">Hi 👋, I'm Shadrack Buddy.</h1>
+<h1 align="left">Hi 👋, I'm Shadrack Buddy 🌌.</h1>
+
+Hello Universe 🌌 This is my profile — exploring Full Stack Dev, Cybersecurity, and AI/ML. Learning, building, breaking (ethically) 🔧🤖🔐
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zingerw1/zingerw1/output/snake_dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zingerw1/zingerw1/output/snake_light.svg" />
+  <img src="https://raw.githubusercontent.com/zingerw1/zingerw1/output/snake_light.svg" alt="Snake animation" />
+</picture>
 
 ###
 <h2 align="left">💻 Tech Stack:</h2>
@@ -86,6 +94,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
 </div>
 
+
 ###
 
 <h2 align="left">👨‍💻 About Me</h2>
@@ -120,6 +129,15 @@
 
 <br clear="both">
 
+1.  **Clone the repository:**
+    ```bash
+    git clone https://github.com/Shadrack-Buddy/Shadrack-Buddy.git
+    ```
+2.  **Navigate into the repository directory:**
+    ```bash
+    cd Shadrack-Buddy
+    ```
+You are now ready to browse the contents of this repository.
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
